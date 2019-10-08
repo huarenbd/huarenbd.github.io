@@ -1,0 +1,368 @@
+﻿#PageContent
+{
+	padding: 0px;
+	margin: 0px 14px 0px 14px;
+}
+h1 {
+	width: 320px;
+	float: left;
+}
+h2
+{
+	font-size: 15px;
+}
+ol
+{
+	padding: 0px;
+	margin: 15px 0px 0px 20px;
+}
+#AddToCartButtonContainer
+{
+	float: left;
+	width: 175px;
+	margin-top: 25px;
+}
+#BreadCrumbContainer {
+	float: left;
+	width: 600px;
+	margin-top: 15px;
+}
+#CallToActionContent {
+	background-image: url('../images/page_images/internal_page_call_to_action_background.jpg');
+	background-repeat: repeat-x;
+	height: 137px;
+	padding-left: 10px;
+}
+#Content {
+	padding-left: 15px;
+	float: left;
+	margin-top: -7px;
+	padding-top: 15px;
+	width: 690px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #CCCCCC;
+}
+#Content h2 {
+	font-weight: bold;
+	font-size: 20px;
+}
+.ProductCallOutImage
+{
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+#ProductIndexContent
+{
+	width: 480px;
+	height: 194px;
+	background-image: url('../client_assets/product_page_callout_images/text_background.jpg');
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: left;
+}
+#ProductIndexContent p
+{
+	padding-bottom: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 25px;
+}
+#Content a img
+{
+	border: none;
+}
+.itemArea {
+	margin-left:15px;
+	font-family:Arial, Verdana, sans-serif;
+	font-size:1em;
+	text-align:left;
+}
+
+#HeadingContainer {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #CCCCCC;
+	height: 43px;
+}
+#MainContent {
+}
+#productDescription
+{
+	width: 350px;
+	float:left;
+	margin-left:30px;
+}
+#productDescription h2
+{
+	margin-top: 26px;
+	margin-bottom: 15px;
+}
+#productImage
+{
+	float: left;
+	text-align:center;
+	margin: 0px 0px 0px 30px;
+}
+#SubNavigationContainer {
+	padding: 0px;
+	float: left;
+	width: 215px;
+	margin-top: -7px;
+	clear: both;
+}
+#SubNavigationContainer li a {
+	background-image: url('../images/page_images/navigation_images/sub_navigation_images/sub_navigation_background_off.jpg');
+	background-repeat: no-repeat;
+	background-position: left top;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	width: 201px;
+	height: 38px;
+	display: block;
+	line-height: 38px;
+	margin-top: 15px;
+	padding-left: 15px;
+}
+#SubNavigationContainer li a:hover {
+	color: #AB6F29;
+	text-decoration: none;
+}
+#SubNavigationContainer ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+.CallToActionContainer {
+	margin-top: 75px;
+}
+.pageLinkContainer
+{
+	float: right;
+	text-align:right;
+	width: 150px;
+	margin-top: 25px;
+}
+.pageLinkContainer a
+{
+	text-decoration: none;
+	color: #AA6B23;
+	text-transform: lowercase;
+}
+.pageLinkContainer a:hover
+{
+	text-decoration: underline;
+}
+.productPageText
+{
+	width: 671px;
+	margin-top: 10px;
+}
+.productPageTextBottom
+{
+	background-image: url(../images/page_images/product_page_text_background_bottom.jpg);
+	background-repeat: no-repeat;
+	height: 8px;
+}
+.productPageTextTop
+{
+	background-image: url(../images/page_images/product_page_text_background_top.jpg);
+	background-repeat: no-repeat;
+	height: 10px;
+}
+.productPageText
+{
+	background-image: url(../images/page_images/product_page_text_backgroun_repeat.jpg);
+	background-repeat: repeat-y;
+}
+.productPageText p
+{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+	
+.RecipeContainer {
+	width: 220px;
+	text-align: center;
+	margin-top: 20px;
+	float: left;
+	margin-left: 12px;
+}
+.RecipeContainer a {
+	text-decoration: none;
+	font-weight: bold;
+}
+.recipeContainer 
+{
+	width: 221px;
+	float: left;
+	margin-bottom: 15px;
+	height: 160px;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 15px;
+}
+.recipeContainer h3
+{
+	font-size: 12px;
+	text-align: center;
+	margin: 5px 0px 0px 0px
+
+}
+.recipeContainer a:hover
+{
+}
+.recipeImage
+{
+	width: 150px;
+}
+#recipeText .recipeImage
+{
+float: right;
+}
+#recipeText h1
+{
+	margin: 13px 0px 5px 0px;
+	float: none;
+	width: 325px;
+}
+.printIcon
+{
+	float: left;
+	
+}
+#recipeText {
+}
+#recipeText h2 {
+	font-size: 13px;
+	margin: 10px 0px 5px 0px;
+	padding: 0px;
+}
+#recipeText p
+{
+	font-size: 12px;
+	margin: 0px 0px 13px 0px;
+}
+.centerContainer
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+.recipeListImage
+{
+	text-align: center;
+}
+.SpiceTable {
+	margin-top: 30px;
+}
+.storeButtonDisplay {
+	text-align: center;
+	height: 20px;
+	line-height: 20px;
+	padding-bottom:5px;
+}
+.storeProductImage {
+	margin-right: auto;
+	margin-left: auto;
+	text-align:center;
+}
+.storeProductListing {
+	float: left;
+	width: 165px;
+	height: 375px;
+	margin: 0px 0px 0px 10px;
+}
+.storeProductListingTitle {
+	vertical-align: bottom;
+	text-align:center;
+	height: 22px;
+	}
+.storeProductPaging {
+	width: 250px;
+	float: right;
+	text-align: right;
+	margin-bottom: 26px;
+}
+.storeProductPaging img {
+	border-style: none;
+}
+.storeProductRegularPrice {
+	text-decoration: line-through;
+	text-align: center;
+	padding-bottom: 5px;
+	font-size: 11px;
+	font-family: tahoma, helvetica, arial, sans-serif;
+
+}
+.storeProductSalePrice {
+	text-align: center;
+	font-size: 11px;
+	padding-bottom: 5px;
+	font-family: tahoma, helvetica, arial, sans-serif;
+}
+.storeProductTitle {
+	text-align: center;
+	font-size: 11px;
+	font-family: tahoma, helvetica, arial, sans-serif;
+	}
+.storeProductTitle a{
+	color: #AA6B23;
+	text-decoration: none;
+}
+.storeProductTitle a:hover{
+	color: #AA6B23;
+	text-decoration: underline;
+}
+.storeWrapper 
+{
+	margin-top: 26px;
+}
+.cartTable {
+	margin-top: 25px;
+}
+.viewCartHeader {
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align:center;
+	padding-bottom: 5px;
+
+}
+.centerText
+{
+	text-align:center;
+}
+.viewCartText
+{
+	font-size: 11px;
+	padding-bottom: 10px;
+	text-align:center;
+}
+#spiceImage {
+	float: left;
+}
+#spiceText {
+	float: left;
+	width: 500px;
+}
+#spiceText p{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#spiceText h2 
+{
+	font-weight: bold;
+	font-size: 20px;
+	padding-top: 20px;
+}
+#resultsContainer {
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #CCCCCC;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}

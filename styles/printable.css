@@ -1,0 +1,26 @@
+﻿body {
+	background-color: #FFFFFF;
+	background-image: none;
+	margin: 5px;
+	font-family: "Century Gothic", Verdana, Tahoma, Arial;
+	font-size: 12px;
+}
+#Logo {
+	margin: 0px;
+	padding: 0px;
+	float: none;
+}
+#pageContent {
+	float: none;
+	margin: 0px;
+	padding: 0px;
+}
+h1 {
+	font-size: 20px;
+}
+.recipeImage {
+	float: right;
+}
+h2 {
+font-size: 16px;
+}

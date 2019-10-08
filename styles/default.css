@@ -1,0 +1,189 @@
+﻿#DefaultPageContent
+{
+	margin-top: 0px;
+}
+#CallToActionContent div a
+{
+	width: 145px;
+	height: 180px;
+	display: block;
+	float: left;
+	background-repeat: no-repeat;
+}
+#FeaturedProductsContainer {
+	background-image: url('../images/page_images/featured_products_callout_background.jpg');
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 214px;
+	height: 284px;
+	margin-left: 8px;
+	float: right;
+	padding-top: 0px;
+}
+#FeaturedProductsContainer h2 {
+	font-size: 14px;
+	padding: 5px;
+	margin: 0px;
+	text-align: center;
+	font-weight: normal;
+	width: 204px;
+}
+#FeaturedProductsContainer .CallToActionContainer {
+	background-image: none;
+	width: 204px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+#FeaturedProductsContainer .CallToActionImage {
+	background-image: none;
+	float: left;
+	width: 79px;
+	text-align: center;
+	height: 109px;
+}
+#FeaturedProductsContainer .CallToActionText {
+	float: left;
+	width: 110px;
+	margin-top: 30px;
+}
+.spiceRacks a
+{
+	padding: 0px;
+	margin: 0px 52px 0px 0px;
+	background-image: url('../images/page_images/default_page_call_to_action_images/spice_racks.png');
+}
+.spiceRacks a:visited
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/spice_racks.png');	
+}
+.spiceRacks a:hover
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/spice_racks_dn.png');
+}
+.disposableGrinders a
+{
+	margin: 0px 52px 0px 0px;
+	padding: 0px;
+	background-image: url('../images/page_images/default_page_call_to_action_images/grinder.png');
+}
+.disposableGrinders a:visited
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/grinder.png');	
+}
+.disposableGrinders a:hover
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/grinders_dn.png');
+}
+.millShakers a
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/mills_and_shakers.png');
+	margin-right: 52px;
+}
+.millShakers a:visited
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/mills_and_shakers.png');	
+}
+.millShakers a:hover
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/mills_and_shakers_dn.png');
+}
+.spiceBottles a
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/spice_bottles.png');
+	margin-right: 52px;
+}
+.spiceBottles a:visited
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/spice_bottles.png');	
+}
+.spiceBottles a:hover
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/spice_bottles_dn.png');
+}
+.saltPepper a
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/salt_and_pepper.png');
+	margin-right: 0px;
+}
+.saltPepper a:visited
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/salt_and_pepper.png');	
+}
+.saltPepper a:hover
+{
+	background-image: url('../images/page_images/default_page_call_to_action_images/salt_and_pepper_dn.png');
+}
+#CallToActionContent {
+	background-image: url('../images/page_images/default_page_content_background.jpg');
+	background-repeat: repeat-x;
+	height: 220px;
+	padding-left: 10px;
+	margin-top: 10px;
+	position: relative;
+	top: 15px;
+}
+#PageContent {
+	margin-left: 10px;
+	margin-top: 4px;
+	margin-right: 10px;
+}
+/* override the root element to enable scrolling */
+	#flowpanes {
+		position:relative;
+		overflow:hidden;
+		clear:both;
+		width:710px;
+		height:284px;
+	}
+
+	/* override single pane */
+	#flowpanes div {
+		float:left;
+		display:block;
+		width:710px;
+	}
+
+	/* our additional wrapper element for the items */
+	#flowpanes .items {
+		width:20000em;
+		position:absolute;
+		clear:both;
+		margin:0;
+		padding:0;
+	}
+
+	#flowpanes .less, #flowpanes .less a {
+		color:#999 !important;
+		font-size:11px;
+	}
+.prev
+{
+	background-image: url(../images/page_images/buttons/previous_slide_button.png);
+	background-repeat: no-repeat;
+	width: 32px;
+	height: 31px;
+	top: -40px;
+	margin-left: 10px;
+	z-index: 15000;
+	position: relative;
+}
+.next
+{
+	background-image: url(../images/page_images/buttons/next_slide_button.png);
+	background-repeat: no-repeat;
+
+	position: relative;
+	height: 32px;
+	width: 31px;
+	top: -70px;
+	right: 10px;
+	float: right;
+}
+#heroImages
+{
+	width: 710px;
+	float: left;
+		height: 284px;
+
+}
